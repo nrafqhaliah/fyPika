@@ -125,7 +125,7 @@
                     <div class="col-lg-10 pt-lg-5 mt-lg-5 text-center">
                         <h1 class="display-3 text-white mb-3 animated slideInDown">Your Smart Kitchen Assistant</h1>
                         <p class="fs-4 text-white mb-4 animated slideInDown">Experience culinary bliss with our collection of easy-to-make yet impressive dishes!</p>
-                        <div class="position-relative w-75 mx-auto animated slideInDown">
+                        <div class="position-relative w-75 mx-auto animated slideInDown" >
                         
                             <input class="form-control border-0 rounded-pill w-100 py-3 ps-4 pe-5" id="textInput" type="text" placeholder="Type ingredients...">
 
@@ -143,7 +143,7 @@
                             </script>
 
                         </div><br>Difficult to type?
-                        <a href="scantext.php">Scan text here!</a>
+                        <a href="scantext.php" >Scan text here!</a>
                     </div>
                    
                 </div>
@@ -216,12 +216,12 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
                     <h6 class="section-title bg-white text-start text-primary pe-3">About Us</h6>
                     <h1 class="mb-4">Welcome to <span class="text-primary">FridgeFriend</span></h1>
-                    <p class="mb-4">Have a fridge full of food and need to make sense of it? We've got you covered. Browse recipes by ingredients with FridgeFriend to make the most of what you already have at home.</p>
-                    <p class="mb-4">Avocado oil and chives on hand? Sounds like salad dressing waiting to happen! Whisk in vinegar and a few red pepper flakes and you have a topper for your kale salad. Too many chili peppers and an excess of ground turkey mean a lean and mean meal of chili. Pot roast leftovers are overwhelming, but it can morph into beef pot pie for English meal or a hearty ragu for an Italian dinner. If impulsive grocery shopping yielded a surplus of salmon, you can find the best match for healthy fish recipes right here. <br><br>
+                    <p class="mb-4" style="color: black;" >Have a fridge full of food and need to make sense of it? We've got you covered. Browse recipes by ingredients with FridgeFriend to make the most of what you already have at home.</p>
+                    <p class="mb-4" style="color: black;">Avocado oil and chives on hand? Sounds like salad dressing waiting to happen! Whisk in vinegar and a few red pepper flakes and you have a topper for your kale salad. Too many chili peppers and an excess of ground turkey mean a lean and mean meal of chili. Pot roast leftovers are overwhelming, but it can morph into beef pot pie for English meal or a hearty ragu for an Italian dinner. If impulsive grocery shopping yielded a surplus of salmon, you can find the best match for healthy fish recipes right here. <br><br>
 
                     Turn cabbage into kimchi or make peanut butter into a Thai dipping sauce for chicken skewers -- whatever ingredients are on your list, there are thousands of recipes to discover on FridgeFriend.
-                    <div class="row gy-2 gx-4 mb-4">
-                        <div class="col-sm-6">
+                    <div class="row gy-2 gx-4 mb-4" style="color: black;">
+                        <div class="col-sm-6" >
                             <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Well-Prepared</p>
                         </div>
                         <div class="col-sm-6">
@@ -255,7 +255,7 @@
             <h6 class="section-title bg-white text-center text-primary px-3">ingredients</h6>
             <h1 class="mb-5">Popular Ingredients</h1>
         </div>
-        <div class="row g-4">
+        <div class="row g-4" style="color: black;" >
             <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="service-item rounded pt-3">
                     <div class="p-4">
@@ -539,7 +539,8 @@
                 <h6 class="section-title bg-white text-center text-primary px-3">cuisine</h6>
                 <h1 class="mb-5">Recipes by Cuisine</h1>
             </div>
-            <div class="row gy-5 gx-4 justify-content-center">
+            <div class="row gy-5 gx-4 justify-content-center" style="color: black;" >
+            
                 <div class="col-lg-4 col-sm-6 text-center pt-4 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="position-relative border border-primary pt-5 pb-4 px-4">
                         <div class="d-inline-flex align-items-center justify-content-center bg-primary rounded-circle position-absolute top-0 start-50 translate-middle shadow" style="width: 100px; height: 100px;">
